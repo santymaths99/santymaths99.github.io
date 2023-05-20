@@ -4,17 +4,17 @@
 <style>
 .rides{
     color:red;
-    
+
     font-size: large;
     font-family:"Times New Roman";
     }
-.rides1{
-    color:red;
+
+
     
-    font-size: large;
-    font-family: ;
+
+
     
-    }
+
 </style>
 <title>summer land</title></head>
 <body style="background-color:rgb(255,255,255)">
