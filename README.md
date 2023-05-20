@@ -1,16 +1,16 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <style>
 .rides{
     color:red;
-    background-color:linen;
+    
     font-size: large;
     font-family:"Times New Roman";
     }
 .rides1{
     color:red;
-    background-color:linen;
+    
     font-size: large;
     font-family: ;
     
